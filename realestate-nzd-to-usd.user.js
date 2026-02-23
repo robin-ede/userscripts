@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         realestate.co.nz NZD/wk → USD/mo
-// @namespace    https://greasyfork.org/users/1572604
+// @namespace    https://github.com/robin-ede/userscripts
 // @version      1.6.0
 // @description  Converts rental prices from NZD/week to USD/month on realestate.co.nz
+// @author       robin-ede
+// @license      MIT
 // @match        *://*.realestate.co.nz/*
 // @grant        none
 // @run-at       document-idle
